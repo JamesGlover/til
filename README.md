@@ -23,7 +23,7 @@ Maintained using the [til-rb](https://github.com/pjambet/til-rb/) gem.
 
 ### Ruby
 
----
+- [Test](ruby/2020-06-30_test.md)
 
 ### Til-rb
 
