@@ -16,9 +16,13 @@ Maintained using the [til-rb](https://github.com/pjambet/til-rb/) gem.
 
 ### Categories
 
-* [Til-rb](#til-rb)
+* [Rails](#rails)
 
 ---
+
+### Rails
+
+- [The attribute api can coerce values and provide defaults](rails/2020-06-30_the-attribute-api-can-coerce-values-and-provide-defaults.md)
 
 ### Til-rb
 
