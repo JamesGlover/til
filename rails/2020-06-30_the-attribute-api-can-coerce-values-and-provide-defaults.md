@@ -31,4 +31,4 @@ It allows for defaults:
 Tempted to explore using it for better visibility of database columns in
 the main codebase.
 
-(API documentation)[https://api.rubyonrails.org/classes/ActiveRecord/Attributes/ClassMethods.html]
+[API documentation](https://api.rubyonrails.org/classes/ActiveRecord/Attributes/ClassMethods.html)
