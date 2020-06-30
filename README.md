@@ -17,6 +17,7 @@ Maintained using the [til-rb](https://github.com/pjambet/til-rb/) gem.
 ### Categories
 
 * [Rails](#rails)
+* [Til-rb](#til-rb)
 
 ---
 
