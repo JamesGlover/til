@@ -16,10 +16,14 @@ Maintained using the [til-rb](https://github.com/pjambet/til-rb/) gem.
 
 ### Categories
 
+* [Python](#python)
 * [Rails](#rails)
-* [Til-rb](#til-rb)
 
 ---
+
+### Python
+
+- [Python environments and running tests](python/2020-07-01_python-environments-and-running-tests.md)
 
 ### Rails
 
