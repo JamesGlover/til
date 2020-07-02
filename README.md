@@ -24,6 +24,7 @@ Maintained using the [til-rb](https://github.com/pjambet/til-rb/) gem.
 ### Python
 
 - [Python environments and running tests](python/2020-07-01_python-environments-and-running-tests.md)
+- [Starting a python debugger](python/2020-07-02_starting-a-python-debugger.md)
 
 ### Rails
 
