@@ -19,6 +19,7 @@ Maintained using the [til-rb](https://github.com/pjambet/til-rb/) gem.
 * [Brew](#brew)
 * [Python](#python)
 * [Rails](#rails)
+* [Ruby](#ruby)
 
 ---
 
@@ -34,6 +35,10 @@ Maintained using the [til-rb](https://github.com/pjambet/til-rb/) gem.
 ### Rails
 
 - [The attribute api can coerce values and provide defaults](rails/2020-06-30_the-attribute-api-can-coerce-values-and-provide-defaults.md)
+
+### Ruby
+
+- [Solving frustrating ssl issues](ruby/2020-07-07_solving-frustrating-ssl-issues.md)
 
 ### Til-rb
 
