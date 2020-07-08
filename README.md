@@ -19,6 +19,7 @@ Maintained using the [til-rb](https://github.com/pjambet/til-rb/) gem.
 ### Categories
 
 * [Brew](#brew)
+* [Docker](#docker)
 * [Python](#python)
 * [Rails](#rails)
 * [Ruby](#ruby)
@@ -28,6 +29,10 @@ Maintained using the [til-rb](https://github.com/pjambet/til-rb/) gem.
 ### Brew
 
 - [Disable brew cleanup](brew/2020-07-07_disable-brew-cleanup.md)
+
+### Docker
+
+- [Connecting to a container in our swarm](docker/2020-07-08_connecting-to-a-container-in-our-swarm.md)
 
 ### Python
 
