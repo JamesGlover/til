@@ -30,6 +30,7 @@ Maintained using the [til-rb](https://github.com/pjambet/til-rb/) gem.
 ### Bash
 
 - [Maintain history across multiple open shells](bash/2020-07-17_maintain-history-across-multiple-open-shells.md)
+- [Remove the last thing typed from history](bash/2020-07-17_remove-the-last-thing-typed-from-history.md)
 
 ### Brew
 
