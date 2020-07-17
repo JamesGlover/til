@@ -18,6 +18,7 @@ Maintained using the [til-rb](https://github.com/pjambet/til-rb/) gem.
 
 ### Categories
 
+* [Bash](#bash)
 * [Brew](#brew)
 * [Docker](#docker)
 * [Python](#python)
@@ -25,6 +26,10 @@ Maintained using the [til-rb](https://github.com/pjambet/til-rb/) gem.
 * [Ruby](#ruby)
 
 ---
+
+### Bash
+
+- [Maintain history across multiple open shells](bash/2020-07-17_maintain-history-across-multiple-open-shells.md)
 
 ### Brew
 
