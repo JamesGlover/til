@@ -14,8 +14,10 @@ I commented previously that the --with-openssl-dir=$(brew --prefix openssl) woul
 Then that failed to work, and I switched to the option found here:
 > https://github.com/rbenv/ruby-build/issues/1139
 > I commented previously that the --with-openssl-dir=$(brew --prefix openssl) would fix the problem, but today I tried to install Ruby 2.7.0 with rvm and it failed. What fixed it was, I did a brew info openssl to get some clues, and this worked:
-
+>
+> ```
 > export PKG_CONFIG_PATH="/usr/local/opt/openssl@1.1/lib/pkgconfig"
+> ```
 
 In practice I added the following to my .profile:
 
