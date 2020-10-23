@@ -53,6 +53,6 @@ Maintained using the [til-rb](https://github.com/pjambet/til-rb/) gem.
 
 - [Solving frustrating ssl issues](ruby/2020-07-07_solving-frustrating-ssl-issues.md)
 
-### Til-rb
+### ZSH
 
-- [Test](til-rb/2020-06-30_test.md)
+- [Fixing Insecure Completion Dependent Directories](zsh/2020-23-10_fixing_insecure_completion_dependent_directories.md)
