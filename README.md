@@ -39,6 +39,7 @@ Maintained using the [til-rb](https://github.com/pjambet/til-rb/) gem.
 ### Docker
 
 - [Connecting to a container in our swarm](docker/2020-07-08_connecting-to-a-container-in-our-swarm.md)
+- [Debugging dead containers](docker/2020-11-26-debugging-dead-containers.md)
 
 ### Python
 
