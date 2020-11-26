@@ -24,8 +24,10 @@ export PKG_CONFIG_PATH="`brew --prefix openssl`/lib/pkgconfig"
 But that doesn't seem to be used when installing MySQL2 gem, so once again, the following applies a global setting to installing mysql2:
 
 ```
-bundle config set build.mysql2 --with-opt-dir="\$(brew --prefix openssl)"
+bundle config set build.mysql2 --with-opt-dir="$(brew --prefix openssl)"
 ```
+
+(I'm sure I've had a version with an escaped `\$(brew --prefix openssl)` working in the past, but might be mistaken, as it completely failed to work recently)
 
 This is the equivalent of running:
 
