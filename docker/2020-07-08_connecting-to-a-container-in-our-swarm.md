@@ -3,7 +3,7 @@
 ```
   ssh docker_host
   docker ps
-  docker exec -ti cont-id bash
-``` 
+  docker exec -ti <container_id> bash
+```
 
 Docker host gets spat out by the ansible
