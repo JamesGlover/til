@@ -53,6 +53,7 @@ Maintained using the [til-rb](https://github.com/pjambet/til-rb/) gem.
 ### Ruby
 
 - [Solving frustrating ssl issues](ruby/2020-07-07_solving-frustrating-ssl-issues.md)
+- [Installing Mimemagic on MacOS](ruby/2021-03-26_installing-mimemagic-on-mac-os.md)
 
 ### ZSH
 
