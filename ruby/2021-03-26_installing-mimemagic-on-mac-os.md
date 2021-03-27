@@ -24,6 +24,10 @@ to install if a copy is not available.
 
 ## The errors and fixes
 
+Edit: Rails have updated marcel to remove the dependency on Mimemagic. For apps on 
+Rails 5.2, 6.0 and 6.1 it is probably easiest to just update the rails components.
+(Assuming this is the only gem with a mime-magic dependency)
+
 ### Using yanked gems
 
 If you are attempting to install a project which has not yet updated mimemagic
