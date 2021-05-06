@@ -59,3 +59,7 @@ Maintained using the [til-rb](https://github.com/pjambet/til-rb/) gem.
 ### ZSH
 
 - [Fixing Insecure Completion Dependent Directories](zsh/2020-23-10_fixing_insecure_completion_dependent_directories.md)
+
+### MacOS
+
+- [Custom libraries and SIP](macos/2020-05-06_custom_libraries_and_sip.md)
